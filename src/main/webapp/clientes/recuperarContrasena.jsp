@@ -9,6 +9,7 @@
         <link rel="stylesheet" href="../css/login-cli.css"/> 
         <title>Banca web - Recuperar Contraseña</title>
         <style>
+            
             .right-section { 
                 min-height: 100vh;
                 display: flex;

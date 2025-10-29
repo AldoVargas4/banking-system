@@ -17,6 +17,7 @@
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 		<title>Banca web - Registrarme</title>
 		<style>
+                    
 			:root {
 				--color-primary: #007bff;
 				--color-danger: #dc3545;
